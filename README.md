@@ -15,6 +15,6 @@ Knowledge and intelligence. Evolution and paradigms of AI research. Fundamental 
 Understanding the fundamental questions and nature of research and development in the field. Analyzing aspects related to the acquisition, representation, and exploration of knowledge for the production of intelligent systems in different application domains.
 
 ## Project
-Project 01 - process scheduling [Acess here]().</p>
-Project 02 - concurrent processes [Acess here]().</p>
-Project 03 - memory management [Acess here]().</p>
+Project 01 - process scheduling [Acess here](https://github.com/evandr022/Artificial-intelligence/tree/main/projeto%2001).</p>
+Project 02 - concurrent processes [Acess here](https://github.com/evandr022/Artificial-intelligence/tree/main/Projeto%2002).</p>
+Project 03 - memory management [Acess here](https://github.com/evandr022/Artificial-intelligence/tree/main/Projeto%2003).</p>
